@@ -1,2 +1,2 @@
-# clash-
-自用clash配置
+# clash-hsichien
+这是基于用户hope140的clash修改的自用clash配置
