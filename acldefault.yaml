@@ -43,6 +43,10 @@ rename_node=台湾@TW
 rename_node=狮城@SG 
 rename_node=马来@ML 
 rename_node=美国@US 
+rename_node=韩国@KR 
+rename_node=|华南入口@
+rename_node=|华中入口@
+rename_node=|华东入口@
 
 enable_rule_generator=true
 overwrite_original_rules=true
