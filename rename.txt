@@ -1,0 +1,13 @@
+rename_node=日本@JP 
+rename_node=香港@HK 
+rename_node=台湾@TW 
+rename_node=狮城@SG 
+rename_node=马来@ML 
+rename_node=美国@US 
+rename_node=韩国@KR 
+rename_node=[|]华南入口@
+rename_node=[|]华中入口@
+rename_node=[|]华东入口@
+rename_node=\[游戏专线-SS\] @
+rename_node=CM[|]@
+rename_node=CU[|]@
