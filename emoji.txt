@@ -1,6 +1,6 @@
 (?i:流量|时间|应急|过期|Bandwidth|expire),🏳️‍🌈
 AC,🇦🇨
-(阿根廷),🇦🇷
+(阿根廷|AR),🇦🇷
 (奥地利|维也纳),🇦🇹
 (AU|Australia|Sydney|澳大利亚|悉尼),🇦🇺
 BE,🇧🇪
