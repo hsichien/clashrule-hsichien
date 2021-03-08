@@ -1,1 +1,1 @@
-exclude_remarks=AGA
+exclude_remarks=(AGA|试用|免费)
